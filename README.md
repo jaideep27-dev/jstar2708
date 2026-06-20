@@ -17,7 +17,7 @@ Building LLM-powered tooling, scalable backend services, and native Android apps
 
 ### 🚀 About Me
 
-I'm a Software Engineer at **Impetus Technologies** with 2+ years of experience building **AI-powered automation systems**, scalable backend services, and native Android applications. I specialize in **LLM-based tooling (RAG, LangChain)** and **workflow orchestration (Apache Airflow)**, with a track record of shipping production-grade solutions in high-scale environments.
+I'm a Software Engineer with 2+ years of experience building **AI-powered automation systems**, scalable backend services, and native Android applications. I specialize in **LLM-based tooling (RAG, LangChain)** and **workflow orchestration (Apache Airflow)**, with a track record of shipping production-grade solutions in high-scale environments.
 
 - 🤖 Built a GenAI chatbot using RAG + LangChain to automate Airflow job triaging across **2M+ daily production workflows**
 - ⚙️ Engineered a migration pipeline moving **50,000+ jobs/day** from AutoSys to Apache Airflow
